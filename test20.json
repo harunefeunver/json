@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "english": "a",
+    "turkish": "bir"
+  },
+  {
+    "id": 2,
+    "english": "about",
+    "turkish": "hakkında"
+  },
+  {
+    "id": 3,
+    "english": "above",
+    "turkish": "üstünde"
+  },
+  {
+    "id": 4,
+    "english": "across",
+    "turkish": "karşıdan karşıya"
+  },
+  {
+    "id": 5,
+    "english": "action",
+    "turkish": "eylem"
+  },
+  {
+    "id": 6,
+    "english": "activity",
+    "turkish": "etkinlik"
+  },
+  {
+    "id": 7,
+    "english": "actor",
+    "turkish": "erkek oyuncu"
+  },
+  {
+    "id": 8,
+    "english": "actress",
+    "turkish": "kadın oyuncu"
+  },
+  {
+    "id": 9,
+    "english": "add",
+    "turkish": "eklemek"
+  },
+  {
+    "id": 10,
+    "english": "address",
+    "turkish": "adres"
+  },
+  {
+    "id": 11,
+    "english": "adult",
+    "turkish": "yetişkin"
+  },
+  {
+    "id": 12,
+    "english": "advice",
+    "turkish": "tavsiye"
+  },
+  {
+    "id": 13,
+    "english": "afraid",
+    "turkish": "korkmuş"
+  },
+  {
+    "id": 14,
+    "english": "after",
+    "turkish": "sonra"
+  },
+  {
+    "id": 15,
+    "english": "afternoon",
+    "turkish": "öğleden sonra"
+  },
+  {
+    "id": 16,
+    "english": "again",
+    "turkish": "tekrar"
+  },
+  {
+    "id": 17,
+    "english": "age",
+    "turkish": "yaş"
+  },
+  {
+    "id": 18,
+    "english": "ago",
+    "turkish": "önce"
+  },
+  {
+    "id": 19,
+    "english": "agree",
+    "turkish": "katılmak"
+  },
+  {
+    "id": 20,
+    "english": "air",
+    "turkish": "hava"
+  }
+]
+
